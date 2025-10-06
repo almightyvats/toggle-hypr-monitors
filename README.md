@@ -16,8 +16,6 @@ A lightweight Bash script to toggle the internal laptop monitor (eDP-1) in Hyprl
    ```bash
    git clone https://github.com/yourusername/hyprland-monitor-toggle.git
    cd hyprland-monitor-toggle
-  ```
-```
 
 2. Make the Script Executable:
 ```bash
